@@ -2,4 +2,4 @@
 #!/bin/bash
 
 
-echo "Hello word"
+echo "SALUT LES GENS COMMENT CA VA^!!!!!"
