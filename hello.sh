@@ -2,4 +2,4 @@
 #!/bin/bash
 
 
-echo "Hello word"
+echo "Yo les gens"
