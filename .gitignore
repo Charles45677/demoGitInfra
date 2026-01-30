@@ -1,0 +1,9 @@
+nodes_modules/ 
+
+
+TestResult.xml
+
+*.obj
+
+.vs/
+.idea/
